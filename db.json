@@ -4,9 +4,91 @@
 
     ],
     "questions": [
+        {"id":1,
+      "question" : "What is returned by SUBSTR?",
+      "opt1": "tutorial",
+      "opt2" : "tutorials",
+      "opt3" : "none of these",
+      "answer" : "tutorials"
+    },
+    {
+      "id":2,
+      "question" : "Which of the following is not a group function?",
+      "opt1": "SUM",
+      "opt2" : "NVL",
+      "opt3" : "none of these",
+      "answer" : "NVL"
+    },
+    {
+      "id":3,
+      "question" : " A transaction starts when",
+      "opt1": " A COMMIT statement is issued",
+      "opt2" : "A ROLLBACK statement is issued",
+      "opt3" : "none of these",
+      "answer" : "none of these"
+    },
+    {
+      "id":4,
+      "question" : "Which type of database management system represents relations using tables?",
+      "opt1": "Network DBMS",
+      "opt2" : "Relational DBMS",
+      "opt3" : "none of these",
+      "answer" : "Relational DBMS"
+    },
+    {
+      "id":5,
+      "question" : "What does SQL stand for?",
+      "opt1": "structured querry language",
+      "opt2" : "strong querry language",
+      "opt3" : "none of these",
+      "answer" : "structured querry language"
+    },
+    {
+      "id":6,
+      "question" : "Which SQL statement is used to update data in a database?",
+      "opt1": "update",
+      "opt2" : "save",
+      "opt3" : "none of these",
+      "answer" : "update"
+    },
+    {
+      "id":7,
+      "question" : "Which SQL statement is used to create data in a database?",
+      "opt1": "create",
+      "opt2" : "save",
+      "opt3" : "none of these",
+      "answer" : "create"
+    },
+    {
+      "id":8,
+      "question" : "Which SQL statement is used to insert data in a database?",
+      "opt1": "insert",
+      "opt2" : "update",
+      "opt3" : "none of these",
+      "answer" : "insert"
+    },
+    {
+      "id":9,
+      "question" : "Which SQL statement is used to delete data in a database?",
+      "opt1": "delete",
+      "opt2" : "remove",
+      "opt3" : "none of these",
+      "answer" : "delete"
+    },
+    {
+      "id":10,
+      "question" : "Which is the most commonly join?",
+      "opt1": "inner join",
+      "opt2" : "inside join",
+      "opt3" : "none of these",
+      "answer" : "inner join"
+    }
 
     ],
     "assessments": [
+        {"id":1,"title":"sql","questions":[1,2,3],"passScore":50},
+        {"id":2,"title":"html","questions":[4,5,6],"passScore":50},
+        {"id":3,"title":"javascript","questions":[7,8,9,10],"passScore":50},
 
     ],
      "userassessments": [
