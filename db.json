@@ -2,13 +2,16 @@
     "users": [
 
     ],
-    "accounts": [
+    "questions": [
 
     ],
-    "transactions": [
+    "assessments": [
 
     ],
-    "payees":[
+     "userassessments": [
+
+    ],
+    "batch":[
         
     ]
     
