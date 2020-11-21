@@ -1,5 +1,6 @@
 {
     "users": [
+        {id:1,"role":"USER","name":"ishwarya","email":"ishwarya@gmail.com","password":"123","dob":"2020-11-21","address":"20","mobile_no":"9876543210","gender":"f"}
 
     ],
     "questions": [
