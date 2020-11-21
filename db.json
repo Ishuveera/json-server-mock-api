@@ -88,7 +88,7 @@
     "assessments": [
         {"id":1,"title":"sql","questions":[1,2,3],"passScore":50},
         {"id":2,"title":"html","questions":[4,5,6],"passScore":50},
-        {"id":3,"title":"javascript","questions":[7,8,9,10],"passScore":50},
+        {"id":3,"title":"javascript","questions":[7,8,9,10],"passScore":50}
 
     ],
      "userassessments": [
