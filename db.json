@@ -92,15 +92,15 @@
 
     ],
      "checkanswer": [
-         {"questionid":1,"answer":"tutorials"}
-         {"questionid":2,"answer":"tutorials"}
-         {"questionid":3,"answer":"tutorials"}
-         {"questionid":4,"answer":"tutorials"}
-         {"questionid":5,"answer":"tutorials"}
-         {"questionid":6,"answer":"tutorials"}
-         {"questionid":7,"answer":"tutorials"}
-         {"questionid":8,"answer":"tutorials"}
-         {"questionid":9,"answer":"tutorials"}
-         {"questionid":10,"answer":"tutorials"}
+         {"questionid":1,"answer":"tutorials"},
+         {"questionid":2,"answer":"NVL"},
+         {"questionid":3,"answer":"none of these"},
+         {"questionid":4,"answer":"Realational dbms"},
+         {"questionid":5,"answer":"structured query language"},
+         {"questionid":6,"answer":"update"},
+         {"questionid":7,"answer":"create"},
+         {"questionid":8,"answer":"insert"}.
+         {"questionid":9,"answer":"delete"},
+         {"questionid":10,"answer":"innerjoin"}
      ]
 }
