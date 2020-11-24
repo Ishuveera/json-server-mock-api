@@ -99,7 +99,7 @@
          {"questionid":5,"answer":"structured query language"},
          {"questionid":6,"answer":"update"},
          {"questionid":7,"answer":"create"},
-         {"questionid":8,"answer":"insert"}.
+         {"questionid":8,"answer":"insert"},
          {"questionid":9,"answer":"delete"},
          {"questionid":10,"answer":"innerjoin"}
      ]
