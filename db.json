@@ -91,12 +91,16 @@
         {"id":3,"title":"javascript","questions":[7,8,9,10],"passScore":50}
 
     ],
-     "userassessments": [
-
-    ],
-    "batches":[
-        
-    ]
-    
-
+     "checkanswer": [
+         {"questionid":1,"answer":"tutorials"}
+         {"questionid":2,"answer":"tutorials"}
+         {"questionid":3,"answer":"tutorials"}
+         {"questionid":4,"answer":"tutorials"}
+         {"questionid":5,"answer":"tutorials"}
+         {"questionid":6,"answer":"tutorials"}
+         {"questionid":7,"answer":"tutorials"}
+         {"questionid":8,"answer":"tutorials"}
+         {"questionid":9,"answer":"tutorials"}
+         {"questionid":10,"answer":"tutorials"}
+     ]
 }
